@@ -1,1 +1,2 @@
-This is practicing about Git push from Command Line.
+This is practicing Git push from Command-Line.
+and also How to Add and commit
